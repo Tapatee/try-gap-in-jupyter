@@ -2,6 +2,8 @@
 - GAP stable-4.11 branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-stable-4.11?filepath=demo.ipynb)
 - GAP master branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-master?filepath=demo.ipynb)
 
+-GAP my branch [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tapatee/try-gap-in-jupyter/HEAD?labpath=https%3A%2F%2Fgithub.com%2FTapatee%2Ftry-gap-in-jupyter%2Fblob%2Fmaster%2Fnitu.ipynb)
+
 # Trying GAP in a Jupyter notebook
 
 This repository allows to try GAP in a Jupyter notebook. It does not require to

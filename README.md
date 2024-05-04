@@ -2,7 +2,7 @@
 - GAP stable-4.11 branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-stable-4.11?filepath=demo.ipynb)
 - GAP master branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-master?filepath=demo.ipynb)
 
--GAP my branch [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tapatee/try-gap-in-jupyter/master?labpath=nitu.ipynb)
+-GAP my branch [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Tapatee/try-gap-in-jupyter/master)
 
 # Trying GAP in a Jupyter notebook
 
